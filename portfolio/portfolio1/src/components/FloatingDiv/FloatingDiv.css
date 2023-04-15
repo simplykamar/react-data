@@ -1,0 +1,13 @@
+.floatingdiv{
+  background:white;
+/*  box-shadow: 5px 5px 5px 1px #d3cfcf;*/
+  border:1px solid  #d3cfcf;
+  border-radius:17px;
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  padding: 0 15px 0 15px;
+}
+.floatingdiv>img{
+  transform: scale(.5);
+  }

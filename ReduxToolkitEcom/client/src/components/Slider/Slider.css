@@ -1,0 +1,15 @@
+
+.carousel,
+.carousel-inner {
+  height: 100vh;
+}
+
+.item {
+  border: 1px solid grey;
+  max-height: 100vh !important;
+  min-height: 100vh !important;
+  max-width: 100vw;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}

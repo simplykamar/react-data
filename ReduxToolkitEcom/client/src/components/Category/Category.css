@@ -1,0 +1,17 @@
+.inner{
+	position:relative;
+	overflow:hidden;
+}
+.category-btn{
+	position:absolute;
+	right:45%;
+	top:45%;
+	
+}
+.inner img:hover{
+	transform:scale(1.2);
+}
+.inner img{
+	transition:all ease 1.5s;
+
+}

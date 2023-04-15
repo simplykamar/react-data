@@ -1,0 +1,39 @@
+.cursor-pointer{
+	cursor:pointer;
+}
+body{
+font-family: 'Nanum Gothic', sans-serif;
+}
+
+.text-gray{
+	color:#7f917d;
+}
+.text-dark-black{
+	color:#4f5052;
+}
+.text-violet{
+	color:#c2139a ;
+}
+
+.btn-violet{
+	background-color:#a60c82;
+	color:white;
+}
+
+.btn-violet:hover{
+	background-color:#c2139a;
+	color:white;
+
+}
+.bg-violet{
+	background-color:#c2139a;
+	color:white;
+}
+.text-price{
+	color:#17c39d;
+}
+.navbar-custom{
+	background-color:white !important;
+}
+
+/*# #0be7b7*/

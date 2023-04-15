@@ -1,0 +1,29 @@
+.portfolio{
+	margin-bottom:2rem;
+	
+}
+.portfolio-content{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	margin-bottom:2rem;
+}
+.portfolio-content>:nth-child(1){
+	font-size:2rem;
+	font-weight:bold;
+	color:var(--black);
+}
+.portfolio-content>:nth-child(2){
+	font-size:2rem;
+	font-weight:bold;
+	color:var(--orange);
+}
+
+
+
+
+
+
+
+

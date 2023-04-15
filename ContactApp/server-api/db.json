@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "id": "08f98e52-2ca6-44e5-b9b4-c3da7c19a1ef",
+      "name": "amit",
+      "contact": "amit@gmail.com"
+    },
+    {
+      "name": "hashim",
+      "contact": "hashim1079@gmail.com"
+    },
+    {
+      "name": "ali",
+      "contact": "ali123@gmail.com"
+    },
+    {
+      "name": "harsh",
+      "contact": "harsh341@gmail.com"
+    },
+    {
+      "id": "a389a782-c68e-4241-8360-4cc35fab97a7",
+      "name": "kamar",
+      "contact": "kamar366@gmail.com"
+    },
+    {
+      "id": "323fead9-cd2b-434d-b9b0-d644aef648d1",
+      "name": "rahul",
+      "contact": "rahul@gg.cc"
+    },
+    {
+      "id": "91e2375b-c096-415e-9d22-a1d0362f4414",
+      "name": "mohd rihan",
+      "contact": "rihan507@gmail.com"
+    }
+  ]
+}

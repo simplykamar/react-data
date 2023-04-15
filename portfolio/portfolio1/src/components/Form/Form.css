@@ -1,0 +1,83 @@
+.form-wrapper{
+	margin-top:8rem;
+	display:flex;
+	justify-content:center;
+	height:90vh;
+	position:relative;
+}
+.form-l{
+	display:flex;
+	flex-direction:column;
+	gap:10px;
+	flex:1;
+	position:relative;
+}
+.form-l>:nth-child(1){
+	font-size:2.5rem;
+	font-weight:bold;
+	color:var(--black);
+
+}
+.form-l>:nth-child(2){
+	font-size:2.5rem;
+	font-weight:bold;
+	color:var(--orange);
+}
+.form-r{
+	position:relative;
+	display:flex;
+	justify-content:center;
+	flex:1;
+}
+.form-r form{
+	gap:20px;
+	display:flex;
+	flex-direction:column;
+}
+.user{
+	padding:5px;
+	width:20rem;
+	height:2rem;
+	outline:none;
+	border: 3px solid var(--orange);
+	border-radius:8px
+}
+textarea{
+	padding:5px;
+	height:4rem;
+	border: 3px solid var(--orange);
+	border-radius:8px;
+	outline:none;
+}
+.form-blur1{
+	position:absolute;
+	width:10rem;
+	height:5rem;
+	background:#64f38c;
+	filter:blur(70px);
+	left:0%;
+	z-index:-9;
+	top:80%;
+}
+
+.form-blur2{
+	position:absolute;
+	width:15rem;
+	height:5rem;
+	background:#a17fe0;
+	filter:blur(80px);
+	right:10%;
+	top:10%;
+	z-index:-9;
+}
+.form-btn-container{
+	text-align:center;
+}
+.form-btn{
+	margin-top:10px;
+	height:40px;
+	width:120px;
+}
+
+
+

@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "slider_imgs",
+  "info": {
+    "singularName": "slider-img",
+    "pluralName": "slider-imgs",
+    "displayName": "SliderImg",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

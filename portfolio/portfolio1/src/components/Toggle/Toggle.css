@@ -1,0 +1,15 @@
+.toggle-container{
+	display:flex;
+	border:3px solid var(--orange);
+	border-radius:30px;
+	padding:4px;
+	cursor:pointer;
+	position:relative;
+}
+.toggle-btn{
+	position:absolute;
+	width:26px;
+	height:26px;
+	border-radius:100%;
+	background-color:var(--orange);
+}

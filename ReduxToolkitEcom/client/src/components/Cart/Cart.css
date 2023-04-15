@@ -1,0 +1,10 @@
+.cart{
+	position:absolute;
+	right:0;
+	z-index:999;
+}
+
+.cart-img{
+	width:5rem;
+	height:5rem
+}

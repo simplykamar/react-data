@@ -1,0 +1,18 @@
+.inner:hover .second-img{
+	display:block;
+}
+.inner:hover .main-img{
+	display:none;
+}
+.inner .second-img{
+	display:none;
+}
+.card .card-img-top{
+	height:12rem
+}
+.card:hover{
+	transform:translateY(-25px);
+}
+.card{
+	transition:all ease .8s;
+}
